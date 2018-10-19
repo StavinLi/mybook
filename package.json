@@ -3,13 +3,12 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
-    "dependencies": {
-        "gh-pages": "^2.0.1"
-    },
-    "devDependencies": {},
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "deploy": "gh-pages -d _book"
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "gulp": "^3.9.1",
+        "gulp-gh-pages": "^0.3.3"
     },
     "repository": {
         "type": "git",
