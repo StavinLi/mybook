@@ -13,5 +13,5 @@
   * vue-cli脚手架项目通过VS Code直接运行及build，无需敲打命令
 * [Git](git.md)
   * github项目设置html文件预览
-  * git 删除本地、远程分支
+  * [git 删除本地、远程分支](git/git-shan-chu-ben-di-3001-yuan-cheng-fen-zhi.md)
 
