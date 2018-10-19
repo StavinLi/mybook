@@ -7,7 +7,7 @@
   * [Linux服务器 安装node、npm及gulp](gulp/linuxfu-wu-qi-an-zhuang-node-npm-ji-gulp.md)
   * [gulp版本号?v=](gulp/gulpban-ben-53f73f-v.md)
 * [Vue](vue.md)
-  * vue-cli2.0脚手架 移动端项目总结（环境构建、本地开发及线上部署）
+  * [vue-cli2.0脚手架 移动端项目总结（环境构建、本地开发及线上部署）](vue/vue-cli20jiao-shou-jia-yi-dong-duan-xiang-mu-zong-jie-ff08-huan-jing-gou-jian-3001-ben-di-kai-fa-ji-xian-shang-bu-shu-ff09.md)
   * vue-cli3.0 axios跨域请求代理配置及端口修改
   * vue-cli3.0 开发环境构建
   * vue-cli脚手架项目通过VS Code直接运行及build，无需敲打命令
